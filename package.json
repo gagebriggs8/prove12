@@ -1,17 +1,13 @@
 {
-    "name": "W12_Solution",
+    "name": "Prove12",
     "version": "1.0.0",
-    "description": "CSE341 W12 Solution",
+    "description": "Prove12",
     "main": "app.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "start": "nodemon app.js",
         "start-server": "node app.js"
     },
-    "author": "Alex Baker",
-    "contributors": [
-        "Andrew Schimelpfening"
-    ],
     "license": "MIT",
     "devDependencies": {
         "nodemon": "^1.19.4"
